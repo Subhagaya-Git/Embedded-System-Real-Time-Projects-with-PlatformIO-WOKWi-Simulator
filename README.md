@@ -62,7 +62,7 @@ This project teaches:
 - LCD and buzzer control  
 - Embedded logic design for interactive systems  
 
-<img width="1920" height="1041" alt="Virtual Pet Game" src="[https://github.com/user-attachments/assets/8ed0aa08-ea2a-4152-8a71-6fd19e1aa88f](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/f694d4710a5c6366b4664a0e1bd2ce6f5ca3677e/Virtual%20Pet%20Game/1.png)" />
+<img width="1920" height="1041" alt="Virtual Pet Game" src="Virtual Pet Game/1.png" />
 
 ---
 
@@ -75,7 +75,7 @@ Uses a **DHT22 sensor** to measure temperature and displays it on an LCD.
 
 *Learn sensor reading, LCD output, and warning system control in Arduino.*
 
-<img width="1920" height="1042" alt="[Fire Alarm System using DHT22 LCD LED Buzzer" src="https://github.com/user-attachments/assets/9513fc4e-e1b9-451a-a0fd-62ac0ec4d970](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/f55c16186783e86ccbb27ccc7c58bb0e9db2c6d2/Smart%20Weather%20and%20Object%20Alert%20System%20using%20DHT22/2.png)" />
+<img width="1920" height="1042" alt="Smart Weather and Object Alert System using DHT22/2.png" />
 
 ---
 
@@ -89,7 +89,7 @@ To test this setup, I simulated a simple **Parking Assistance System** that dete
 
 This project helped me understand how to use **ultrasonic sensors** for object detection and create **real-world safety systems** like parking assistance. ⚙️📟🚘  
 
-<img width="1920" height="1042" alt="[car reverse parking assistance system using ultrasonic sensor" src="https://github.com/user-attachments/assets/4306a250-8f3a-4e45-b617-8510852665c9](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/4d483e8fb1e18c5fc746ed9160b1581280402e53/Car%20reverse%20parking%20assistance%20system%20using%20ultrasonic%20sensor/3.png)" />
+<img width="1920" height="1042" alt="[car reverse parking assistance system using ultrasonic sensor" src="Car reverse parking assistance system using ultrasonic sensor/3.png" />
 
 ---
 
@@ -119,7 +119,7 @@ To test this setup, I simulated a simple **Smart Home Security System** that det
 This project helped me understand how to **integrate multiple components** — sensors, indicators, and displays — to build a **responsive and interactive home security system** using Arduino. ⚙️🧠🔔  
 
 
-<img width="1920" height="1045" alt="[Smart Home Security System with PIR sensor LCD LED BUZZER" src="https://github.com/user-attachments/assets/66393521-864f-427e-89ff-256446b026cd](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/0281fba81f37379cb46a82fa2ac4ed10b5c63aba/Smart%20Home%20Security%20System%20with%20PIR%20sensor%20LDC%20LED%20BUZZER/5.png)" />
+<img width="1920" height="1045" alt="[Smart Home Security System with PIR sensor LCD LED BUZZER" src="Smart Home Security System with PIR sensor LDC LED BUZZER/5.png" />
 
 ---
 
@@ -133,7 +133,7 @@ To test this setup, I simulated a simple **Maze Control Game** using a **joystic
 
 This project helped me understand how to **integrate analog sensors with actuators** to create a **fun and interactive Arduino-based motion control game**. ⚙️🧠🎯  
 
-<img width="1920" height="1046" alt="[maze game with joystick and servo mortors" src="https://github.com/user-attachments/assets/e5b54d02-5205-4b05-9566-a60e75e6246a](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/5a6befe4eeba38c0cc84ae22a81d34a8727f7d58/Maze%20Game%20with%20Joystick%20and%20Servo%20Mortors/6.png)" />
+<img width="1920" height="1046" alt="[maze game with joystick and servo mortors" src="Maze Game with Joystick and Servo Mortors/6.png" />
 
 <img width="1920" height="1046" alt="maze game with joystick and servo mortors" src="https://github.com/user-attachments/assets/50437703-7bc3-4d27-956e-c0334fd2efa6" />
 
@@ -149,9 +149,9 @@ For this project, I built a simple **two-axis robotic arm** that is controlled u
 
 This project helped me understand how to **control multiple actuators using a single analog input**, creating a **simple and responsive Arduino-based robotic arm**. ⚙️🤖🎯  
 
-<img width="1920" height="1037" alt="[Robotic Arm with 2 Servo anf Joystick" src="https://github.com/user-attachments/assets/66a79cda-b450-472a-96c8-1eb1434511a0](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/5a6befe4eeba38c0cc84ae22a81d34a8727f7d58/Maze%20Game%20with%20Joystick%20and%20Servo%20Mortors/6.png)" />
+<img width="1920" height="1037" alt="[Robotic Arm with 2 Servo anf Joystick" src="Maze Game with Joystick and Servo Mortors/6.png" />
 
-<img width="1920" height="1046" alt="maze game with joystick and servo mortors" src="[https://github.com/user-attachments/assets/50437703-7bc3-4d27-956e-c0334fd2efa6](https://github.com/Subhagaya-Git/Embedded-System-Real-Time-Projects-with-PlatformIO-WOKWi-Simulator/blob/28cfe39cd20a7e0acc797025a2a3671551447bd7/Robotic%20Arm%20with%202%20Servo%20and%20Joystick/01.jpg)" />
+<img width="1920" height="1046" alt="maze game with joystick and servo mortors" src="Robotic Arm with 2 Servo and Joystick/01.jpg" />
 
 ---
 
